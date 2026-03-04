@@ -54,6 +54,7 @@ ls -l ./data/processed/server_logs >> ./data/inventory.txt
 ls -l ./data/processed/user_logs >> ./data/inventory.txt
 ls -l ./data/processed/event_logs >> ./data/inventory.txt
 
+#End of assignment
 ###########################################
 
 echo "Project setup is complete!"
